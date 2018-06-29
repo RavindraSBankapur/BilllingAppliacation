@@ -8,10 +8,9 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-         <div className="pageBody"><Dashboard/></div><div></div>
+         <div className="pageBody"><Dashboard/></div>
       </div>
     );
   }
 }
-
 export default App;

@@ -6,3 +6,19 @@ table{
 h1{
     color: brown;
 }
+th{
+    background-color: darkgrey;
+}
+tr{
+    color: maroon;
+}
+button{
+    padding :8px 10px 8px 10px;
+}
+button:hover{
+    padding :8px 10px 8px 10px;
+    background-color: aliceblue;
+}
+.placeHolder:hover{
+    color: firebrick;
+}

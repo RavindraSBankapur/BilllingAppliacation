@@ -17,7 +17,7 @@ class Dashboard extends Component{
         return(
             <div className="root" >
                 <div><Header/></div>
-                <div><h3>Please Choose product & The number of Quantities Required</h3></div>
+                <div><h3>Please Choose product & Enter The Required number of Quantities </h3></div>
                 <div><ProductList prodList={Products}/></div>
                 <div><Footer/></div>
             </div>
